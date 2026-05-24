@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "amqplib": "^1.0.3",
+    "artillery": "^2.0.30",
     "axios": "^1.13.6",
     "cookie-parser": "^1.4.7",
     "dotenv": "^17.2.3",
